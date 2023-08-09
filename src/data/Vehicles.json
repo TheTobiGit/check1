@@ -1,0 +1,72 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "brand": "Yutong",
+      "name": "60-Seater Bus",
+      "image": [],
+      "capacity": 60,
+      "registrationNumber": "ABC123"
+    },
+    {
+      "id": 2,
+      "brand": "Yutong",
+      "name": "60-Seater Bus",
+      "image": [],
+      "capacity": 60,
+      "registrationNumber": "DEF456"
+    },
+    {
+      "id": 3,
+      "brand": "Shuyong",
+      "name": "65-Seater Bus",
+      "image": [],
+      "capacity": 65,
+      "registrationNumber": "GHI789"
+    },
+    {
+      "id": 4,
+      "brand": "Kia",
+      "name": "35-Seater Bus",
+      "image": [],
+      "capacity": 35,
+      "registrationNumber": "GHI799"
+    }
+  ],
+  "vans": [
+    {
+      "id": 5,
+      "brand": "Hyundai H1 Minivan",
+      "name": "12-Seater Bus",
+      "image": [],
+      "capacity": 12,
+      "registrationNumber": "MNO345"
+    },
+    {
+      "id": 6,
+      "brand": "Toyota",
+      "name": "23-Seater Bus",
+      "image": [],
+      "capacity": 23,
+      "registrationNumber": "MNO341"
+    }
+  ],
+  "trucks": [
+    {
+      "id": 7,
+      "brand": "Madza Bt PickUp",
+      "name": "PickUp Truck",
+      "image": [],
+      "capacity": 4,
+      "registrationNumber": "PQR678"
+    },
+    {
+      "id": 8,
+      "brand": "Nissan Navara PickUp",
+      "name": "PickUp Truck",
+      "image": [],
+      "capacity": 4,
+      "registrationNumber": "PQR078"
+    }
+  ]
+}
