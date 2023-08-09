@@ -26,7 +26,7 @@
 
 <script>
 import router from "../../../routes";
-import { logout } from "../../../stores/userData";
+import { logout } from "../../../stores/UserData";
 
 export default {
   setup() {
