@@ -23,7 +23,7 @@ const busesRef = ref(storage, "Buses");
 
 const busesImagesUrl = async () => {
   const arr = [];
-  const res = await listAll(busesRef);
+  const res = await listAll(busesRef); 
 
   await Promise.all(
     res.items.map(async (itemRef) => {
