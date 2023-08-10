@@ -11,7 +11,7 @@ export const theme = {
       brand3: '#00AEEF',
     },
     backgroundImage: {
-      'hero-image': "url('./src/assets/hero.jpg')",
+      'hero-image': "url('/src/assets/hero.jpg')",
     },
   },
 };
