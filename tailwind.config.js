@@ -11,6 +11,9 @@ module.exports = {
         brand2: '#FDB515',
         brand3: '#00AEEF',
       },
+      backgroundImage: {
+        'hero-image': "url('./src/assets/hero.jpg')",
+      },
     },
   },
   plugins: [],
