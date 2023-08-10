@@ -6,13 +6,13 @@ import Vehicles from "../data/Vehicles.json";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDDEAyQM4FFHusjg8C0FRClqNnzf7G5T8E",
-  authDomain: "AIzaSyDDEAyQM4FFHusjg8C0FRClqNnzf7G5T8E",
+  authDomain: "puc-transport-unit.firebaseapp.com",
   databaseURL: "https://puc-transport-unit-default-rtdb.firebaseio.com",
   projectId: "puc-transport-unit",
   storageBucket: "puc-transport-unit.appspot.com",
   messagingSenderId: "579137315951",
   appId: "1:579137315951:web:c3cad900db6c4d2ab1999a",
-  measurementId: "G-PT7KM6C0NQ",
+  measurementId: "G-PT7KM6C0NQ"
 };
 
 const app = initializeApp(firebaseConfig);

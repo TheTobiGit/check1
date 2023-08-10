@@ -5,7 +5,10 @@ import Loader from "./views/user/static/Loader.vue";
 </script>
 
 <template>
-  <div v-if="isLoading" class="h-screen w-screen grid place-items-center">
+  <div
+    v-if="isLoading"
+    class="h-screen w-screen grid place-items-center absolute"
+  >
     <Loader />
   </div>
   <div v-else>
