@@ -5,7 +5,7 @@ import { getStorage, ref, listAll, getDownloadURL } from "firebase/storage";
 import Vehicles from "../data/Vehicles.json";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_apikey,
+  apiKey: import.meta.env.VITE_apiKey,
   authDomain: import.meta.env.VITE_authDomain,
   databaseURL: import.meta.env.VITE_databaseURL,
   projectId: import.meta.env.VITE_projectId,
