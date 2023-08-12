@@ -3,7 +3,7 @@
     class="h-[90vh] grid grid-cols-3 place-items-center text-2xl absolute w-screen left-0 bg-white z-50"
   >
     <div class="grid place-items-center">
-      <router-link :to="'./vehicles/add'">
+      <router-link :to="'./vehicles/manage'">
         <div
           class="uppercase text-white bg-[#2A5198] w-[20vw] h-[20vh] rounded shadow-md grid place-items-center cursor-pointer"
         >
